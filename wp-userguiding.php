@@ -32,8 +32,15 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 /**
- * LOAD USERGUIDE ON ADMIN AREA
+ * LOAD USERGUIDING ON ADMIN AREA
  */
 add_action( 'admin_enqueue_scripts', function() {
+	wp_enqueue_script( 'userguiding', plugin_dir_url( __FILE__ ) . '/assets/js/userguiding.js', false );
+} );
+
+/**
+ * LOAD USERGUIDING ON FRONT-END
+ */
+add_action( 'wp_enqueue_scripts', function() {
 	wp_enqueue_script( 'userguiding', plugin_dir_url( __FILE__ ) . '/assets/js/userguiding.js', false );
 } );
