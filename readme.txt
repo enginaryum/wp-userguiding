@@ -1,6 +1,6 @@
 === UserGuiding ===
 Contributors: userguiding
-Tags: accounting, bookkeeping, invoices, budget, money, payments, expenses, billing
+Tags: userguiding, user onboarding, onboarding, tooltip, UX, user experience, customer support, product management, product adoption
 Donate link: https://userguiding.com
 Requires at least: 4.0
 Tested up to: 4.9
@@ -8,53 +8,43 @@ Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Akaunting is a free, open source and online accounting software for small businesses and freelancers.
+UserGuiding is an onboarding software that helps you create quick, hassle free, and interactive guides for an easier product journey.
 
 == Description ==
 
-Akaunting is an online accounting software that has all the tools you need to manage your money, from invoicing to expense tracking to accounting. Thanks to its modular structure, Akaunting provides an awesome [App Store](https://akaunting.com/apps) for users and developers.
+UserGuiding help companies improve product adoption by designing interactive guides and help pages without coding. By using our UI, non-technical product staff can create interactive tutorials, in-app messages, and reusable guides in minutes.
 
-Manually entering data from your WooCommerce store into accounting today? Experiencing accounting errors? Want to spend more time focusing on your business rather than worrying about manual bookkeeping and accounting reconciliation?
+It's much easier and faster way to design user onboarding than insourcing for a couple of reasons:
+1) No developer working hour required
+2) NLP algorithm working with customer support channel
+3) Built-in detailed analytics service
 
-Akaunting plugin for WooCommerce is here to help! Seamless. Automatic.
+[Click here for live demo](https://demo.userguiding.com/demo)
 
 = Features =
 
-* Customer Management
-* Vendor Management
-* Inventory Management
-* Easy Invoicing
-* Billable Expenses
-* Inventory Management
-* Bank Accounts
-* Multi-Currency
-* Multi-Company
-* Powerful Reporting
-* Client Portal
-* Unlimited Attachments
-* Transaction Categories
-* Tax Rates
-* App Store
-* Multilingual Panel
-* Fine-Grained Permissions
+* Design beautiful walkthroughs and hotspots without writing a single line of code.
+* Customize all features of your guide from colors to triggers via a user-friendly dashboard.
+* Design fully interactive guides step-by-step for instant and result-oriented customer support.
+* Create segments based on user actions and attributes in order to determine which guides will be shown to whom.
+* Analyze how the product tours are used and how you can improve your product usability more.
+* Create new users with different authorization levels in order to work more productively.
 
-Check our site more information about the features of Akaunting, the [free accounting software](https://akaunting.com).
+Check our site for more information about the features of UserGuiding, the [user onboarding tool](https://userguiding.com).
 
 = Documentation =
 
-[Documentation](https://akaunting.com/docs) will be maintained on the Akaunting.com site.
+[Documentation](https://help.userguiding.com) will be maintained on the UserGuiding.com site.
 
 = Support =
 
-Use our forums for technical support https://akaunting.com/forum
+Use the Intercom messenger on our pages for technical support
 
 == Installation ==
 
 = Automatic Installation =
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New.
-
-In the search field type "Akaunting for WooCommerce" and click Search Plugins. Once you've found the plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by clicking "Install Now".
 
 = Manual Installation =
 
