@@ -44,3 +44,11 @@ add_action( 'admin_enqueue_scripts', function() {
 add_action( 'wp_enqueue_scripts', function() {
 	wp_enqueue_script( 'userguiding', plugin_dir_url( __FILE__ ) . '/assets/js/userguiding.js', false );
 } );
+
+
+/**
+ * LOAD USERGUIDING ON CUSTOMIZER
+ */
+add_action( 'customize_controls_enqueue_scripts', function() {
+	wp_enqueue_script( 'userguiding', plugin_dir_url( __FILE__ ) . '/assets/js/userguiding.js', false );
+} );
