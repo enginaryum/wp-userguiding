@@ -19,7 +19,7 @@ It's much easier and faster way to design user onboarding than insourcing for a 
 2) NLP algorithm working with customer support channel
 3) Built-in detailed analytics service
 
-[Click here for live demo](https://demo.userguiding.com/demo)
+[Click here for live demo](https://gmaildemo.userguiding.com/theme/?__ug__=5351)
 
 = Features =
 
