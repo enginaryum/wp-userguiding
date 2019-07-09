@@ -50,4 +50,10 @@ Automatic installation is the easiest option as WordPress handles the file trans
 
 The manual installation method involves downloading the plugin and uploading it to your site. To do a manual install, log in to your WordPress admin panel, navigate to the Plugins menu, click Add New, click Upload (top links) and finally select the downloaded file.
 
+== Frequently Asked Questions ==
+
+Do we collect critical information?
 We do not collect information about you or your server.
+
+ == Changelog ==
+Find our changelogs [here](https://help.userguiding.com/collections/1794016-product-updates)
